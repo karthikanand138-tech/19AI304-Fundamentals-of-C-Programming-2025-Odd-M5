@@ -364,7 +364,7 @@ void displayArray(int *arr, int size) {
 }
 ~~~
 # Output:
-![Uploading image.png…]()
+<img width="1002" height="538" alt="image" src="https://github.com/user-attachments/assets/0fff7011-fdba-4f13-bbf6-e8530418022b" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
